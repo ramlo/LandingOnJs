@@ -1,0 +1,10 @@
+{
+  "name": "LandingOnJs",
+  "version": "0.0.1",
+  "main":"test.js",
+  "description": "For test ",
+  "dependencies": {
+	"xmlhttprequest" : "latest"
+  }
+
+}
